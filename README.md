@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+I am new to Data Engineering and starting to learn about Git, GitHub, Visual Studio and Visual Studio Code.
+
+:fish:
 
 <!--
 **Koi999/Koi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
